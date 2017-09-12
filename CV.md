@@ -3,31 +3,19 @@ Curriculum Vitae
 
 Personalia
 ----------
-Name	J.M.H. van Dijk
-
-First name	Judith
-
-Date of birth	July 24, 1994
-
-Place of birth	Uden 
-
-Nationality	Dutch
-
-Address	Boksdoornerf 639	
-
-Postal code	5038 KC
-
-City of residence	Tilburg
-
-Country	The Netherlands
-
-Phone contact	+31640253690
-
-Email	jmhvandijk@gmail.com
-
-Driver’s license	Yes (B)
-
-LinkedIn	Judith van Dijk
+* Name	J.M.H. van Dijk
+* First name	Judith
+* Date of birth	July 24, 1994
+* Place of birth	Uden 
+* Nationality	Dutch
+* Address	Boksdoornerf 639	
+* Postal code	5038 KC
+* City of residence	Tilburg
+* Country	The Netherlands
+* Phone contact	+31640253690
+* Email	jmhvandijk@gmail.com
+* Driver’s license	Yes (B)
+* LinkedIn	Judith van Dijk
 
 Academic Education
 ------------------
