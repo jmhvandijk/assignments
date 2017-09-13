@@ -58,14 +58,14 @@ Joint responsibilities within study association Asset Tilburg include the member
 
 Language skills
 ---------------
-Dutch	Native proficiency
-English	Full working proficiency
+* Dutch	Native proficiency
+* English	Full working proficiency
 
 IT Knowledge
 ------------
-Adobe Photoshop & InDesign	Extended
-MS Word			Extended
-MS Excel, Stata			Standard
+* Adobe Photoshop & InDesign	Extended
+* MS Word			Extended
+* MS Excel, Stata			Standard
 
 Hobbies
 -------
