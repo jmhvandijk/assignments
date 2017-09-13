@@ -25,7 +25,9 @@ Economics
 09-2013 – 07-2016	Bachelor of Science at Tilburg University
 Economics and Business Economics
 
-08-2015 – 12-2015	Exchange semester at Sungkyunkwan University, Seoul, South Korea		Courses: Fiscal Policy, Industrial Organization, Organization Theory,
+08-2015 – 12-2015	Exchange semester at Sungkyunkwan University, Seoul, South Korea		
+
+Courses: Fiscal Policy, Industrial Organization, Organization Theory,
 Monetary Policy, International Finance
 
 09-2011 – 07-2013	Atheneum at Udens College
