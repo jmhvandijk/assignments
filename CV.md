@@ -47,10 +47,12 @@ Analysing municipalities at the requirement of sustainability, for research purp
 Extracurricular Activities
 --------------------------
 09-2013 – present	Committee member at study association Asset | Economics
+
 Part of six different committees, with a broad range of functions and responsibilities. Organized a business event for 100+ participants, designed a year book and organized several informal events. Currently organizing a business dinner
 
 07-2016 – 09-2017 	Board year at study association Asset | Economics	(40 hours/week)
 Secretary/External Affairs Officer
+
 Responsibilities include maintaining the administration, website and social media channels of Asset | Economics, external communication, maintaining and extending external relations, coordinating several committees, and being representative in the Acquisition, Secretary and Webmaster Meetings of Asset Tilburg
 Joint responsibilities within study association Asset Tilburg include the membership database and external relations, including the organization of the Asset Inhouse Days
 
